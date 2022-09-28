@@ -3,7 +3,7 @@
 
 # Learning Github Desktop 
 
-This makes things SO mch easier! (project description)
+This makes things SO mch easier!
 
 
 ## Contributing
