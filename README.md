@@ -1,7 +1,7 @@
 ![oops, image not found](hello_kitty.gif "Hello Kitty")
 
 
-# (Project Name) Learning Github Desktop
+# Learning Github Desktop 
 
 This makes things SO mch easier! (project description)
 
